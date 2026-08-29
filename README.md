@@ -1,4 +1,4 @@
-# After School '99
+# After School 2000's
 
 A Windows 98 desktop simulator built for late-90s nostalgia — boot up the family PC, sign into MSN, fire up Winamp, and waste an afternoon clicking around.
 
